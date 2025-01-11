@@ -1,8 +1,12 @@
-# React + Vite
+# Frontend Mentor - Fylo dark theme landing page solution
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a solution to the [Fylo dark theme landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/fylo-dark-theme-landing-page-5ca5f2d21e82137ec91a50fd). Frontend Mentor challenges help you improve your coding skills by building realistic projects.
 
-Currently, two official plugins are available:
+### Screenshot
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![](./desktop-preview.jpg)
+
+### Links
+
+- Solution URL: [https://www.frontendmentor.io/solutions/fylo-dark-landing-pa...](https://www.frontendmentor.io/solutions/fylo-dark-landing-page-solution-pGsxbhgVJp)
+- Live Site URL: [https://hummingcoder.github.io/Fylo-Dark-Landing-Page/](https://hummingcoder.github.io/Fylo-Dark-Landing-Page/)
